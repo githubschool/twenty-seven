@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Everyone!!
 
 - Class Date: April 27, 2020
 - Facilitator: @beardofedu
